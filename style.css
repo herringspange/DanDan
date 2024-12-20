@@ -243,4 +243,4 @@ body{
   65% {transform: translateY(-15px) scaleY(0.9) rotate(-35deg); opacity:1;}
   75% {transform: translateY(-18px) scaleY(0.9) rotate(-35deg); opacity:1;}
   100% {transform: translateY(0) scaleY(1) rotate(-35deg); opacity:1;}
-} 
+}
